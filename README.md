@@ -1,6 +1,7 @@
 <H1>Maciej Wasser</H1>
 <H6>Fullstack Developer<H6>
-
+---
+Coding being a complementary skill became a full time career and an interest of mine that I love to develop in. Im mostly involved in web 3.0 and blockchain. Making briges beetween whats known and the new. Connecting dots using knowledge from different fields I worked in.
 <!--
 **Maurice972/Maurice972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
