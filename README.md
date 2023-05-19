@@ -1,9 +1,16 @@
 <H1>Maciej Wasser</H1>
 <H4>Fullstack Developer</H4>
 
-Coding being a complementary skill became a full time career and an interest of mine that I love to develop in.
+<!-- Coding being a complementary skill became a full time career and an interest of mine that I love to develop in.
 <br>Im mostly involved in web 3.0 and blockchain. Making briges beetween whats known and the new.
-<br>Connecting dots using knowledge from different fields I worked in.
+<br>Connecting dots using knowledge from different fields I worked in. -->
+
+I have a passion for coding, which started as a complementary skill but has now become a full-time career and a personal interest that I thoroughly enjoy developing. 
+My focus lies predominantly in the realm of web 3.0 and blockchain technology. I find great satisfaction in creating bridges between established practices and the emerging innovations of the digital landscape.
+
+One of my strengths is the ability to connect dots by leveraging knowledge from various fields in which I have worked. This interdisciplinary approach allows me to bring unique perspectives and insights to my coding projects. By drawing upon diverse experiences, I can contribute a well-rounded and holistic approach to problem-solving.
+
+I am excited to continue expanding my expertise in coding, exploring the possibilities of web 3.0 and blockchain, and making meaningful contributions to this rapidly evolving field.
 
 #
 
