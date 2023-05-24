@@ -10,7 +10,7 @@ My focus lies predominantly in the realm of web 3.0 and blockchain technology. I
 
 One of my strengths is the ability to connect dots by leveraging knowledge from various fields in which I have worked. This interdisciplinary approach allows me to bring unique perspectives and insights to my coding projects. By drawing upon diverse experiences, I can contribute a well-rounded and holistic approach to problem-solving.
 
-I am excited to continue expanding my expertise in coding, exploring the possibilities of web 3.0 and blockchain, and making meaningful contributions to this rapidly evolving field.
+I am excited to continue expanding my expertise in coding, exploring the possibilities of web 3.0 and blockchain, making meaningful contributions to this rapidly evolving field.
 
 #
 
