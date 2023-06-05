@@ -13,7 +13,7 @@ One of my strengths is the ability to connect dots by leveraging knowledge from 
 I am excited to continue expanding my expertise in coding, exploring the possibilities of web 3.0 and blockchain, making meaningful contributions to this rapidly evolving field.
 
 
-<a href="https://shorturl.at/yzBHI"><h1>My Resume</h1></a>
+<a href="https://maurice972.github.io/My-responsive-resume/">My Resume</a>
 #
 
 ### Technologies
@@ -29,7 +29,6 @@ I am excited to continue expanding my expertise in coding, exploring the possibi
 #
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maurice972&show_icons=true&theme=prussian)
-
 <!--
 **Maurice972/Maurice972** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
