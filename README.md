@@ -12,6 +12,8 @@ One of my strengths is the ability to connect dots by leveraging knowledge from 
 
 I am excited to continue expanding my expertise in coding, exploring the possibilities of web 3.0 and blockchain, making meaningful contributions to this rapidly evolving field.
 
+
+<a href="https://shorturl.at/yzBHI"><h1>My Resume</h1></a>
 #
 
 ### Technologies
